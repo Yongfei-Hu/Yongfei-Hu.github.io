@@ -1,21 +1,32 @@
-### **Software Engineer Intern**  
-**January 2025 – June 2025 | ByteDance**  
+### **Frontend Development Intern**  
+**Oct 2024 – Mar 2025 | Digital Hainan Co., Ltd**  
 
-Worked on the development and optimization of large-scale recommendation systems, focusing on algorithm improvements and system efficiency enhancements. Contributed to real-time data processing pipelines and model optimization for personalized content delivery.
+Developed and optimized data visualization systems for government leadership dashboards, focusing on frontend interface development and data presentation. Collaborated with cross-functional teams to enhance data processing workflows and improve decision-making efficiency.
 
 #### Key Contributions:  
-- Developed and optimized recommendation algorithms to enhance user engagement and content relevance.  
-- Designed and implemented real-time data processing workflows to improve model inference efficiency.  
-- Conducted A/B testing and performance analysis to refine recommendation strategies based on user behavior data.  
+- Led the development of leadership dashboard (PC & Mobile) using JavaScript, transforming big data into interactive charts on JinXiong platform  
+- Designed and implemented a tag management subsystem with automated industry classification extraction using large language models  
+- Collaborated with backend teams to ensure data accuracy and real-time performance, improving data analysis efficiency by 20%  
+- Created UI prototypes using MasterGo and developed data visualization solutions with Tableau  
+
+#### Technical Skills:  
+JavaScript · Tableau · MasterGo · Data Visualization · UI/UX Design · Database Management
 
 ---
 
-### **软件工程师实习生**  
-**2025年1月 – 2025年6月 | 字节跳动**  
+### **前端开发实习生**  
+**2024年10月 – 2025年3月 | 数字海南有限公司**  
 
-负责大规模推荐系统的开发与优化，专注于算法改进和系统效率提升。参与实时数据处理管道的构建，并优化模型推理流程，以提升个性化内容推荐效果。
+负责政府领导视窗的数据可视化系统开发与优化，专注于前端界面开发和数据展示。与跨职能团队协作，完善数据处理流程，提升决策效率。
 
 #### 主要贡献:  
-- 研发并优化推荐算法，提高用户互动率和内容相关性。  
-- 设计并实现实时数据处理流程，提升模型推理的计算效率。  
-- 进行A/B测试与性能分析，基于用户行为数据优化推荐策略。
+- 使用JavaScript主导开发领导视窗（PC端和移动端），将大数据管理中心数据转化为金熊平台上的交互式图表  
+- 设计并开发标签管理子系统，利用大模型自动提取政策文件中的行业门类信息  
+- 与后端团队紧密合作，确保数据准确性和实时性，提升数据分析效率20%  
+- 使用MasterGo制作UI原型，运用Tableau开发数据可视化方案  
+
+#### 技术技能:  
+JavaScript · Tableau · MasterGo · 数据可视化 · UI/UX设计 · 数据库管理
+
+---
+
