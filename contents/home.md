@@ -1,4 +1,5 @@
-[![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
+[//]: # [![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
+[![GitHub](https://img.shields.io/badge/Yongfei_Hu-GitHub-black?logo=github)](https://github.com/Yongfei-Hu)
 
 I'm currently pursuing a Master's degree in Applied Statistics at the School of Mathematics and Statistics, Xidian University, China.
 
