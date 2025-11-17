@@ -9,6 +9,7 @@ I'm currently pursuing a Master's degree in Applied Statistics at the School of 
 
 #### Education  
 **Xidian University**, Master of Applied Statistics (2025 – Present)
+
 • Expected graduation: 2028
 
 **Hainan University**, Bachelor of Science in Mathematics and Applied Mathematics (2021 – 2025)
