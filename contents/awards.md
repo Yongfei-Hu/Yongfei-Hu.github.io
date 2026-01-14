@@ -2,7 +2,7 @@ Hainan University, Bachelor of Science in Mathematics and Applied Mathematics (2
 
 • GPA: 3.4/4.0 | CET-6: 500 | CET-4: 476
 
-• National Inspirational Scholarship | University-level "Three Good Student"
+• National Inspirational Scholarship | University-level "Merit Student"
 
 • Co-authored one SCI paper (Q4 journal)
 
