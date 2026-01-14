@@ -10,7 +10,7 @@ Developed and optimized data visualization systems for government leadership das
 - Created UI prototypes using MasterGo and developed data visualization solutions with Tableau  
 
 #### Technical Skills:  
-JavaScript · Tableau · MasterGo · Data Visualization · UI/UX Design · Database Management
+Python | MATLAB | SQL Server | Tableau | JavaScript | UI/UX Design (MasterGo)
 
 ---
 
@@ -26,7 +26,7 @@ JavaScript · Tableau · MasterGo · Data Visualization · UI/UX Design · Datab
 - 使用MasterGo制作UI原型，运用Tableau开发数据可视化方案  
 
 #### 技术技能:  
-JavaScript · Tableau · MasterGo · 数据可视化 · UI/UX设计 · 数据库管理
+Python | MATLAB | JavaScript | SQL Server | Tableau | UI/UX 设计 (MasterGo)
 
 ---
 
