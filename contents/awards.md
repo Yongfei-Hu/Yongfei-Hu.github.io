@@ -1,6 +1,6 @@
 Hainan University, Bachelor of Science in Mathematics and Applied Mathematics (2021 – 2025)
 
-• GPA: 3.4/4.0 | CET-6: 500 | CET-4: 476
+• GPA: 3.4/4.0 | CET-4: 476 | CET-6: 500 
 
 • National Inspirational Scholarship | University-level "Merit Student"
 
