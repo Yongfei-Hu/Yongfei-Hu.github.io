@@ -18,7 +18,7 @@ I'm currently pursuing a Master's degree in Applied Statistics at the School of 
 
 • National Inspirational Scholarship | University-level "Three Good Student"
 
-• Co-authored one SCI paper (Q4 journal)
+• Co-authored one SCI paper (JCR Q3 journal)
 
 • Awards: National Second Prize in CUMCM, Honorable Mention in MCM/ICM
 
