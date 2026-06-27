@@ -31,8 +31,6 @@
     <!-- Bootstrap core JS-->
     <script type="text/javascript" src="static/js/bootstrap.bundle.min.js"></script>
 
-    <!-- For Compatability -->
-    <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
 
     <!-- Markdown -->
     <script type="text/javascript" src="static/js/marked.min.js"></script>
@@ -180,6 +178,20 @@
         <div class="container px-5">
             <div class="text-white-50 small">
                 <div id="copyright-text" class="mb-2"></div>
+                
+                    <!-- 👇 卜算子统计 -->
+                    <div class="mb-2">
+                        <span id="busuanzi_container_site_pv">
+                            <i class="bi bi-eye"></i> <span id="busuanzi_value_site_pv"></span> visits
+                        </span>
+                        <span class="mx-1">&middot;</span>
+                        <span id="busuanzi_container_site_uv">
+                            <span id="busuanzi_value_site_uv"></span> visitors
+                        </span>
+                    </div>
+                    <!-- 👆 卜算子统计 -->
+
+                
                 <a id="github-link" href="https://github.com/senli1073">Github</a>
                 <span class="mx-1">&middot;</span>
                 <a id="license-link"
@@ -187,6 +199,8 @@
             </div>
         </div>
     </footer>
+     <!-- 不蒜子 页面计数器 -->
+     <script async src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
 
 </body>
 
