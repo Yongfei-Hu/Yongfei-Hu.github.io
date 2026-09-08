@@ -1,5 +1,5 @@
 <!-- [![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX) -->
-[![GitHub](https://img.shields.io/badge/Yongfei_Hu-GitHub-black?logo=github)](https://github.com/Yongfei-Hu)
+[![GitHub](https://img.shields.io/badge/Yongfei_Hu-GitHub-black?logo=github)](https://github.com/Yongfei-Hu) [![GitCode](https://img.shields.io/badge/yongfei--hu-GitCode-c71d23)](https://gitcode.com/yongfei-hu)
 
 I'm currently pursuing a Master's degree in Applied Statistics at the School of Mathematics and Statistics, Xidian University, China.
 
