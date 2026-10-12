@@ -4,8 +4,10 @@ Hainan University, Bachelor of Science in Mathematics and Applied Mathematics (2
 
 • National Inspirational Scholarship | University-level "Merit Student"
 
-• Co-authored one SCI paper (Q4 journal)
+• Co-authored one SCI paper (Q3 journal)
 
 • Awards: National Second Prize in CUMCM, Honorable Mention in MCM/ICM
+
+• National Third Prize in the 8th China Graduate Artificial Intelligence Innovation Competition (Enterprise Track)
 
 • Admitted to Xidian University for graduate studies through merit-based recommendation
