@@ -1,13 +1,13 @@
-Hainan University, Bachelor of Science in Mathematics and Applied Mathematics (2021 – 2025)
+海南大学,数学与应用数学理学学士(2021 – 2025)
 
-• GPA: 3.4/4.0 | CET-4: 476 | CET-6: 500 
+• GPA:3.4/4.0 | 英语四级:476 | 英语六级:500
 
-• National Inspirational Scholarship | University-level "Merit Student"
+• 国家励志奖学金 | 校级"三好学生"
 
-• Co-authored one SCI paper (Q3 journal)
+• 合作发表 SCI 论文一篇(Q3 区期刊)
 
-• Awards: National Second Prize in CUMCM, Honorable Mention in MCM/ICM
+• 获奖:全国大学生数学建模竞赛(CUMCM)国家级二等奖 | 美国大学生数学建模竞赛(MCM/ICM)H 奖
 
-• National Third Prize in the 8th China Graduate Artificial Intelligence Innovation Competition (Enterprise Track)
+• 第八届中国研究生人工智能创新大赛(企业赛道)国家级三等奖
 
-• Admitted to Xidian University for graduate studies through merit-based recommendation
+• 推荐免试录取至西安电子科技大学攻读硕士研究生
