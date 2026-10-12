@@ -1,3 +1,33 @@
+### **AI Infra Intern**  
+**Jul 2026 – Present | Xi'an Huawei Technologies Co., Ltd.**  
+
+Contributed to AI infrastructure engineering, with a focus on operator development and the CANN Runtime library.
+
+#### Key Contributions:  
+- Developed and optimized operators for AI computing workloads  
+- Maintained and enhanced components in the CANN Runtime library  
+- Built an automated pipeline for skill approval, improving the efficiency and consistency of the review workflow  
+
+#### Technical Skills:  
+CANN · Runtime Systems · Operator Development · AI Infrastructure · Pipeline Automation
+
+---
+
+### **AI Infra 实习生**  
+**2026年7月 – 至今 | 西安华为技术有限公司**  
+
+参与 AI 基础设施研发，主要负责算子开发及 CANN Runtime 库的维护与迭代。
+
+#### 主要贡献:  
+- 开发并优化面向 AI 计算负载的算子  
+- 维护和完善 CANN Runtime 库相关组件  
+- 搭建 Skill 自动审批流水线，提升审批流程的效率与一致性  
+
+#### 技术技能:  
+CANN · Runtime 系统 · 算子开发 · AI 基础设施 · 流水线自动化
+
+---
+
 ### **Frontend Development Intern**  
 **Oct 2024 – Mar 2025 | Digital Hainan Co., Ltd**  
 
