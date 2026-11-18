@@ -180,7 +180,7 @@ async function renderLeetCodeHeatmap() {
     });
 
     chart.replaceChildren(svg);
-    const totalActiveDays = calendars.reduce((sum, item) => sum + item.totalActiveDays, 0);
+    const totalActiveDays = Object.values(counts).filter(count => count > 0).length;
     const totalSubmissions = Object.values(counts).reduce((sum, count) => sum + count, 0);
     summary.textContent = '近两年活跃天数：' + totalActiveDays + ' 天 · 近两年提交次数：' + totalSubmissions + ' 次 · 当前连续活跃：' + calendars[1].streak + ' 天';
     status.textContent = '过去 365 天提交活动';
