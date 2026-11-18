@@ -79,7 +79,7 @@ async function renderLeetCodeHeatmap() {
 
     try {
         const cached = JSON.parse(localStorage.getItem(cacheKey) || 'null');
-        if (cached && cached.savedAt && Date.now() - cached.savedAt < 6 * 60 * 60 * 1000) {
+        if (cached && cached.savedAt && Date.now() - cached.savedAt < 24 * 60 * 60 * 1000) {
             calendars = cached.calendars;
         }
     } catch (_) {}
